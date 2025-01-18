@@ -1,0 +1,36 @@
+olá eu sou Edilza Gomes e esse e meu primeiro desafio de código do zero.
+
+```markdown
+# Inovações em Inteligência Artificial
+
+Este repositório contém informações sobre as principais ferramentas de IA, incluindo Copilot, Leonardo AI, MidJourney e Canva. Abaixo estão as entradas e saídas para cada uma dessas tecnologias:
+
+| Entrada        | Saída                                                                    |
+|----------------|--------------------------------------------------------------------------|
+| **copiloto**   | Ajuda em tarefas de produtividade                                        |
+| **leonardo ai**| Geração de conteúdo criativo e análises complexas                         |
+| **midjourney** | Criação de imagens a partir de descrições textuais                       |
+| **canva**      | Plataforma de design gráfico para criar apresentações e materiais visuais |
+
+## Como Usar
+1. Clone este repositório para o seu ambiente local.
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Acesse o diretório do projeto.
+   ```bash
+   cd nome-do-repositorio
+   ```
+3. Explore os arquivos e informações disponíveis neste repositório.
+
+## Ferramentas
+- **Copilot**: Assistente de IA que ajuda em tarefas de produtividade.
+- **Leonardo AI**: Ferramenta de IA para geração de conteúdo criativo e análises.
+- **MidJourney**: Plataforma de criação de imagens a partir de descrições textuais.
+- **Canva**: Plataforma de design gráfico para criar apresentações e materiais visuais.
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias e sugestões.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
